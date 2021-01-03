@@ -1,4 +1,4 @@
-# Yashints.dev
+# JavaScript jeep forked from  Yashints.dev
 
 My personal website
 
